@@ -2,7 +2,7 @@ Hello I am a noob electrical engineer graduate student~ On the journey to my end
 
 まくっとそけ～なんくるないさ～
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="[contributions.svg](https://github.com/sicajc/Interesting-readme-template/blob/main/contributions.svg)"></a>
 
 <p align="center"> 
   Visitor count<br>
