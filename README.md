@@ -2,6 +2,8 @@ Hello I am a noob electrical engineer graduate student~ On the journey to my end
 
 まくっとそけ～なんくるないさ～
 
+<a href=#><img src="contributions.svg"></a>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sicajc/count.svg" />
