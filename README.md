@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 Quick Bio
-- I am currently a graduate student in NCHU.
+- I am currently a graduate student in NCHU working on computer architecture and struggling in algorithm.
 
 
 <!-- GitHub Statistics -->
@@ -27,19 +27,6 @@ Quick Bio
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicajc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=Jupyter%20Notebook" />
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sicajc&margin-w=10&row=1&column=7" alt="sicajc-trophy" /></a> </p>
 </div>
-
-### 📊 Weekly development time
-<!--START_SECTION:waka-->
-
-```text
-From: 17 February 2023 - To: 24 February 2023
-
-TeX      3 hrs 57 mins   ███████████████████████░░   92.31 %
-Python   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sicajc&theme=github" /></div>
